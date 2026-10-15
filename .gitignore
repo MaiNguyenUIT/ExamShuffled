@@ -3,4 +3,5 @@ __pycache__/
 .pytest_cache/
 *.pyc
 output/
+docxTest/
 .streamlit/secrets.toml
